@@ -1,0 +1,2 @@
+# HomeWorkPermissions
+normal/dangerous permissions
