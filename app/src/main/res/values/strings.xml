@@ -1,0 +1,12 @@
+<resources>
+
+        <string name="app_name">HomeWorkPermissions</string>
+        <string name="hello">Hello, grant access by clicking on the buttons on the left</string>
+        <string name="background_location">Background Location</string>
+        <string name="activity_recognition">Activity \nRecognition</string>
+        <string name="calendar">Calendar</string>
+        <string name="all">Grant all the ungranted Permissions</string>
+        <string name="granted">Granted</string>
+        <string name="not_granted">Not Granted</string>
+
+</resources>
